@@ -1,0 +1,27 @@
+#time{
+    font-family: cursive;
+}
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url('https://images.pexels.com/photos/3106799/pexels-photo-3106799.jpeg?cs=srgb&dl=pexels-sides-imagery-3106799.jpg&fm=jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    height: 96vh;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    flex-direction: column;
+    font-size: 26px;
+    row-gap: 20px;
+    background-blend-mode: darken;
+    background-color: rgba(0, 0, 0, 0.459);
+
+}
+h1{
+   font-size: 200px;
+}
